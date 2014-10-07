@@ -1,5 +1,5 @@
 # Site settings
-title: I Don't Understand Java Jokes
+title: I'm a Barista, But I Don't Understand Java Jokes
 email: enorton10@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Now, the story of a young woman who is learning code and the one time she had no choice but to open 50 tabs in one browser.
@@ -18,3 +18,4 @@ defaults:
     type: "posts"
   values:
     layout: "post"
+    -
