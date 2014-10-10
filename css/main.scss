@@ -45,14 +45,13 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
-;
+        "syntax-highlighting";
 
 .site-title {
 	font-family: 'Exo', sans-serif;
 	font-style: italic;
 }
-.post-title {
+.post-title , .post-link {
 	font-family: 'Exo', sans-serif;
 	font-size: 20px;
 }
