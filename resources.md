@@ -3,6 +3,4 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-This took me about an hour to figure out.
-Also, Sublime deleted one of my folders repeatedly.
-I would really like to know why.
+I plan to link to the sites that helped me keep my sanity at one in the morning.

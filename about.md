@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hello! This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) 
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I loved coffee before I could form sentences, so working at Starbucks seemed a natural part of my personal evolution. The idea of learning to code was less instinctive for me, but an hour into my first CodeAcademy course I realized that I hadn't been giving myself enough credit. Right now, I'm getting comfortable with HTML, CSS, Jekyll, and Foundation. Javascript makes me distinctly UNcomfortable and I'm in the midst of a Ruby on Rails course.
