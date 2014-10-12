@@ -79,10 +79,12 @@ body .page-content {
 .site-footer {
 	padding:5px 0px;
 }
-.resource-wrapper h6, a {
+.resource-wrapper h6 {
 	font-family: 'Exo', sans-serif;
 	color: #18750b;
+	font-weight: bold;
 }
-.resource-wrapper dl dt {
-	font-weight: none;
+.resource-wrapper dl a dt {
+	font-weight: normal;
+	font-family: 'Exo', sans serif;
 }

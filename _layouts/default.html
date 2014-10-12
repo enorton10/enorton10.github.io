@@ -6,13 +6,26 @@
   <body>
 
     {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    
+      <div class="page-content">
+        <div class="wrapper">
+          <div class="row">
+            <div class="small-9 columns">
+              {{ content }}
+            </div>
+            <div class= "small-3 columns">
+              <!--This is where my picture will go, along with the About and Resources links-->
+              <div class="trigger">
+                {% for page in site.pages %}
+                  {% if page.title %}
+                  <a class="button radius" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+       </div>
     </div>
-
     {% include footer.html %}
 
   </body>

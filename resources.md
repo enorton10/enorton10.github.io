@@ -10,9 +10,9 @@ permalink: /resources/
 			<a href="http://www.codecademy.com"><dt>Code Academy</dt></a>
 			<dd>This is a great first stop for most coding basics. These courses explain concepts as you go, whereas some other sites are more "do first, explain later."</dd>
 			<a href="http://ruby.learncodethehardway.org/book/"><dt>Learn Ruby the Hard Way</dt></a>
-			<dd>Ruby the Hard Way has many, many exercises. I think it is most helpful after completing Ruby on Code Academy. It's great practice and helps hammer in concepts, but is less helpful in explaining concepts.</dd>
+			<dd>Ruby the Hard Way has many, many exercises. I think it is most helpful after completing Ruby on Code Academy. It's great practice and helps ingrain concepts, but is less helpful in explaining concepts.</dd>
 			<a href="http://www.codeschool.com"><dt>Code School</dt></a>
-			<dd>Code School is similar to Code Academy. However, while it does have some free courses, a lot of the site is subscripion-based. Once again, Code Academy is more beginner-friendly.</dd> 
+			<dd>Code School is similar to Code Academy. However, while it does have some free courses, a lot of the site is subscripion-based. Code School is not quite as beginner-friendly as Code Academy.</dd> 
 		</dl>	
 	</div>
 	<div class="cheatsheets">
