@@ -14,11 +14,12 @@
               {{ content }}
             </div>
             <div class= "small-3 columns">
+              <img src="/images/Blog Photo.jpg">
               <!--This is where my picture will go, along with the About and Resources links-->
               <div class="trigger">
                 {% for page in site.pages %}
                   {% if page.title %}
-                  <a class="button radius" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                  <a class="button secondary" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                   {% endif %}
                 {% endfor %}
               </div>

@@ -65,8 +65,9 @@ $on-laptop:        800px;
 .button:hover {
 	text-decoration: none;
 }
-a.button {
+.trigger a.button {
 	color: #eee;
+	background-color: #041376;
 }
 .site-title:hover {
 	color: #000;
@@ -74,7 +75,9 @@ a.button {
 	font-size: 30px;
 }
 body .page-content {
-  background-image: url('/images/Abstract_technology_circles_with_cut_paper.jpg');
+  	background-image: url('/images/swirl_background.jpg');
+  	background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .site-footer {
 	padding:5px 0px;
@@ -87,4 +90,10 @@ body .page-content {
 .resource-wrapper dl a dt {
 	font-weight: normal;
 	font-family: 'Exo', sans serif;
+}
+.small-3.columns img {
+	padding-bottom: 25px;
+}
+.small-9.columns {
+	background-color: white;
 }
