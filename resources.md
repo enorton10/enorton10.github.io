@@ -69,5 +69,7 @@ permalink: /resources/
 			<dd>This is a chart of colors that can be added staright into stylesheets.</dd>
 			<a href="http://www.0to255.com/"><dt>0 to 255</dt></a>
 			<dd>Such a cool site for hexadecimal color codes. It's especially great if you want to play with shades of colors.</dd>
+			<a href="http://html-color-codes.info/colors-from-image/"><dt>Image Color Codes</dt></a>
+			<dd>This is the coolest! You can upload an image and click on a point and it returns the hexadecimal code for that color. I've used it to match button colors to background images.</dd>
 	</div>
 </div>
